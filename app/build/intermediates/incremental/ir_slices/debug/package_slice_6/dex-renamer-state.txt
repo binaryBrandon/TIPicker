@@ -1,0 +1,4 @@
+#Wed Apr 18 16:29:13 EDT 2018
+base.0=E\:\\Users\\spyguy\\AndroidStudioProjects\\TIPicker\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\6
+path.0=classes.dex
+renamed.0=classes.dex

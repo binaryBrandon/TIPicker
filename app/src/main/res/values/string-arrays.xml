@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="races">
+        <item>The Arborec</item>
+        <item>The Ghosts of Creuss</item>
+        <item>The Emirates of Hacan</item>
+        <item>The Universities of Jol-Nar</item>
+        <item>The L1Z1X Mindnet</item>
+        <item>The Barony of Letnev</item>
+        <item>The Mentak Coalition</item>
+        <item>The Embers of Muaat</item>
+        <item>The Naalu Collective</item>
+        <item>The Nekro Virus</item>
+        <item>The Clan of Saar</item>
+        <item>Sardak N\'orr</item>
+        <item>The Federation of Sol</item>
+        <item>The Winnu</item>
+        <item>The Xxcha Kingdom</item>
+        <item>The Yin Brotherhood</item>
+        <item>The Yssaril Tribes</item>
+    </string-array>
+    <!--String[] races = { "The Arborec", "The Ghosts of Creuss", "The Emirates of Hacan", "The Universities of Jol-Nar",
+    "The L1Z1X Mindnet", "The Barony of Letnev", "The Mentak Coalition", "The Embers of Muaat",
+    "The Naalu Collective", "The Nekro Virus", "The Clan of Saar", "Sardak N'orr", "The Federation of Sol",
+    "The Winnu", "The Xxcha Kingdom", "The Yin Brotherhood", "The Yssaril Tribes"
+    };-->
+</resources>
